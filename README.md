@@ -47,7 +47,7 @@ This project is licensed under the MIT License.
 
 ## Contact Information:
 
-By Darshan Suresh & Chitgra <br></br>
+By Darshan Suresh & Chithra <br></br>
 For any questions, suggestions, or collaboration opportunities, please reach out via GitHub or email(darshansuresh1804@gmail.com).
 
 ## Acknowledgements:
